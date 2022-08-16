@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1053854534320",
+    "project_id": "insta-fire-crud-c5986",
+    "storage_bucket": "insta-fire-crud-c5986.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053854534320:android:208fe34188a1c7dd3d4975",
+        "android_client_info": {
+          "package_name": "com.sumeet.instafirecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053854534320-t5kbd6j3b6leq6qmt0nse39740v2hq14.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sumeet.instafirecrud",
+            "certificate_hash": "1a40b08c6f924bda43ef3c3f9bba44a328dd8612"
+          }
+        },
+        {
+          "client_id": "1053854534320-e2nm40tdbrcf8gsl0048s5jtjd4irgja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB38_BKPlQgAADw42AP47slhusZo7J8m-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053854534320-e2nm40tdbrcf8gsl0048s5jtjd4irgja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
