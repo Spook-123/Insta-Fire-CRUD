@@ -5,6 +5,6 @@
 
 Here's a walkthrough of implemented user stories:
 
-<img src = "https://j.gifs.com/08BKYL.gif" title="Video Walkthrough" width="400" alt="Video Walkthrough" />
+<img src = "https://j.gifs.com/08BKYL.gif" title="Video Walkthrough"  alt="Video Walkthrough" />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
