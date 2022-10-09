@@ -4,7 +4,7 @@
 
 It is an upgraded version of the Insta-Fire App hence, it encompasses the CRUD Functionality that allows users to 1. Create 2. Read 3. Update 4. Delete
 
-<--Firebase Components Used-->
+# <--Firebase Components Used-->
 
  --> "Google Authentication"
  
@@ -12,7 +12,7 @@ It is an upgraded version of the Insta-Fire App hence, it encompasses the CRUD F
  
  --> "Storage"
 
-<--Other features Used-->
+# <--Other features Used-->
 
  --> "Firestore Recycler view -> it renders data in a scrollable manner and updates the data in a real-time environment"
  
